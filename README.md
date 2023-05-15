@@ -4,8 +4,8 @@
 #!/bin/bash
 # install build_essentials
 
-sudo apt update
-sudo apt install build-essential
+sudo apt update -y
+sudo apt install build-essential -y
 
 # Download and install nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
