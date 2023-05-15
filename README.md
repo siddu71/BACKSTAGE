@@ -26,4 +26,4 @@ yarn --version
 
 #  Create the backstage APP
 
-npx @backstage/create-app@latest -y 
+npx @backstage/create-app@latest
